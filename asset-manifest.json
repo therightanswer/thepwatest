@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/therightanswer/thepwatest.git/static/css/main.db44fa1d.css",
+    "main.js": "/therightanswer/thepwatest.git/static/js/main.f312c954.js",
+    "static/js/787.954ee95d.chunk.js": "/therightanswer/thepwatest.git/static/js/787.954ee95d.chunk.js",
+    "static/media/slider1.jpg": "/therightanswer/thepwatest.git/static/media/slider1.bf1b458021ecfab4b4a9.jpg",
+    "static/media/slider2.jpg": "/therightanswer/thepwatest.git/static/media/slider2.fb04be935f92086d31cd.jpg",
+    "static/media/slider3.jpg": "/therightanswer/thepwatest.git/static/media/slider3.27b0be1d6e608e4e668a.jpg",
+    "static/media/slick.svg": "/therightanswer/thepwatest.git/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/therightanswer/thepwatest.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/therightanswer/thepwatest.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/therightanswer/thepwatest.git/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/therightanswer/thepwatest.git/index.html",
+    "main.db44fa1d.css.map": "/therightanswer/thepwatest.git/static/css/main.db44fa1d.css.map",
+    "main.f312c954.js.map": "/therightanswer/thepwatest.git/static/js/main.f312c954.js.map",
+    "787.954ee95d.chunk.js.map": "/therightanswer/thepwatest.git/static/js/787.954ee95d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db44fa1d.css",
+    "static/js/main.f312c954.js"
+  ]
+}
